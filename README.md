@@ -12,4 +12,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaohenriqueSql&theme=radical&show_icons=true)
 
-![Snake animation](JoaohenriqueSql)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaohenriqueSql&theme=radical&show&repo=Projeto-Curso-em-Video)](https://github.com/JoaohenriqueSql/Projeto-Curso-em-Video)
