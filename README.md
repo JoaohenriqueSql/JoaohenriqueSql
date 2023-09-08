@@ -13,10 +13,13 @@
 
 <hr>
 
-<div style="display: flex;">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=JoaohenriqueSql&show_icons=true&theme=radical" />
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaohenriqueSql&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</div>
+<a href="https://github.com/JoaohenriqueSql/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaohenriqueSql&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/JoaohenriqueSql/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaohenriqueSql&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 
 <br>
 <br>
