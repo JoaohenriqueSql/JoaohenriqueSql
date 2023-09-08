@@ -8,3 +8,7 @@
 - 🏔️ Escalar montanhas é uma forma de não desperdiçar nenhum segundo da aventura que é estar vivo.
 - ⚽ Com o esporte aprendi a nunca desistir, sempre treinar mais, me superar e dar o meu melhor.
 - 😄 Pronomes: ele/dele
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaohenriqueSql&theme=radical&show_icons=true)
+
