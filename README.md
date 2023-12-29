@@ -1,7 +1,7 @@
 # Olá! Eu sou o João ✌
 
 #### Tenho 17 anos
-#### 🇧🇷 Londrina PR Brasil 
+#### 🇧🇷 Londrina PR - Brasil 
 
 - 🔭 Atualmente estou trabalhando na aréa de Marketing como Desenvolvedor
 - 🖥 Landing Pages, Emails e Sites em no-code
