@@ -1,6 +1,6 @@
 # Olá! Eu sou o João ✌
 
-#### Tenho 17 anos
+#### Tenho 19 anos
 #### 🇧🇷 Londrina PR - Brasil 
 
 - 🔭 Atualmente estou trabalhando na aréa de Marketing como Desenvolvedor
